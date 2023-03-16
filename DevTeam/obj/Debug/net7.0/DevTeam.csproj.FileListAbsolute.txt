@@ -1,0 +1,12 @@
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\obj\Debug\net7.0\DevTeam.csproj.AssemblyReference.cache
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\obj\Debug\net7.0\DevTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\obj\Debug\net7.0\DevTeam.AssemblyInfoInputs.cache
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\obj\Debug\net7.0\DevTeam.AssemblyInfo.cs
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\obj\Debug\net7.0\DevTeam.csproj.CoreCompileInputs.cache
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\bin\Debug\net7.0\DevTeam.deps.json
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\bin\Debug\net7.0\DevTeam.dll
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\bin\Debug\net7.0\DevTeam.pdb
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\obj\Debug\net7.0\DevTeam.dll
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\obj\Debug\net7.0\refint\DevTeam.dll
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\obj\Debug\net7.0\DevTeam.pdb
+C:\Users\13179\Desktop\ElevenFifty\codingFoundations\KomodoInsurance2\Komodo\DevTeam\obj\Debug\net7.0\ref\DevTeam.dll
