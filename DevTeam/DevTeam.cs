@@ -5,8 +5,8 @@ namespace _DevTeam
 {
     public class TeamContent
     {
-        public string MemberNames { get; set; }
-        public string TeamName { get; set; }
+       public string TeamName { get; set; }
+       public string MemberNames { get; set; }
         public double TeamId { get; set; }
 
         public TeamContent( ) { }
@@ -15,7 +15,7 @@ namespace _DevTeam
             TeamName = teamName;
         }
 
-        public TeamContent(string memberNames, string teamName, double teamId)
+        public TeamContent(string teamName, string memberNames, double teamId)
         {
             MemberNames = memberNames;
             TeamName = teamName;

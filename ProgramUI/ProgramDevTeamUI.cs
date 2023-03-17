@@ -11,7 +11,7 @@ public class ProgramDevTeamUI
 
     public void Run()
     {
-        // call seed
+        SeedData();
         Menu();
     }
 
@@ -93,7 +93,7 @@ public class ProgramDevTeamUI
 
         foreach (TeamContent content in ListOfContent)
         {
-            System.Console.WriteLine($"Team Name: {content.TeamName} Team Id: {content.TeamId}\n Team Members: {content.MemberNames}");
+            System.Console.WriteLine($"Team Name: {content.TeamName}\n Team Id: {content.TeamId}\n Team Members: {content.MemberNames}");
         }
     }
 
@@ -152,10 +152,16 @@ public class ProgramDevTeamUI
         }
     }
 
-    // private void SeedData()
-    // {
+    private void SeedData()
+    {
+        TeamContent TeamA = new TeamContent("Team A", "Tom Badger, Zack Mulith", 40004231);
+        TeamContent TeamB = new TeamContent("Team B", "John Smith, Dennis Hall", 40004789);
+        TeamContent TeamC = new TeamContent("Team C", "Noah Howell, Seth Howell", 40004543);
 
-    // }
+        _teamContent.AddoContenttolist(TeamA);
+        _teamContent.AddoContenttolist(TeamB); 
+        _teamContent.AddoContenttolist(TeamC);
+    }
 
 
 }

@@ -23,8 +23,8 @@ namespace _DevTeam
 
             if (oldContent != null)
             {
-                oldContent.MemberNames = newContent.MemberNames;
                 oldContent.TeamName = newContent.TeamName;
+                oldContent.MemberNames = newContent.MemberNames;
                 oldContent.TeamId = newContent.TeamId;
                 return true;
             }

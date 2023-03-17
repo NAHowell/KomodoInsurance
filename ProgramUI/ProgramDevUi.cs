@@ -9,6 +9,7 @@ public class ProgramDevUI
 
     public void Run()
     {
+        SeedData();
         Menu();
     }
 
@@ -162,4 +163,15 @@ public class ProgramDevUI
         }
     }
 
+
+    private void SeedData()
+    {
+        DeveloperContent Noah = new DeveloperContent("Noah", 40004565, true);
+        DeveloperContent Seth = new DeveloperContent("Seth", 40004987, true);
+        DeveloperContent John = new DeveloperContent("John", 40004512, false);
+
+        _Devlist.AddContentToList(Noah);
+        _Devlist.AddContentToList(Seth);
+        _Devlist.AddContentToList(John);
+    }
 }
